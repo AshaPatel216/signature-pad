@@ -1,0 +1,5 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/signature-pad-demo/.vs/signature-pad-demo/config/applicationhost.config

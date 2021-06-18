@@ -1,1 +1,12 @@
 /* You can add global styles to this file, and also import other style files */
+canvas {
+  border: 2px dashed hsla(0,0%,66%,.4);
+  border-radius: 5px;
+  background-color: #f7eddf;
+  color: #626262;
+
+}
+
+.canvas-container {
+    width: 300px;
+}
